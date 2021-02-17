@@ -7,11 +7,11 @@ c. <b>Style</b> <br>
 d. Styles <br>
 <br>
 <br>
-Q2) The tag used in head tag in internal styling is?
-<br><b>'<style>'</b>
-<br>'\<src>'
-<br>'\<img>'
-<br>'<href>'
+Q2) The tag used in head tag in internal styling is? <br>
+a. <b>style tag </b> <br>
+b. '\<src>' <br>
+c. '\<img>' <br>
+d. '<href>' <br>
 <br>
 <br>
 Q3) Where in an HTML document is the correct place to refer to an external style sheet?
