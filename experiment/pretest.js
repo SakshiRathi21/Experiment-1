@@ -90,52 +90,34 @@
 
   const myQuestions = [
     {
-        question: "1.	What are Fourier coefficients?",
+        question: "1.	Which of the following is a correct syntax for inline styling?",
         answers: {
-            a: ' The terms that are present in a Fourier series',
-            b: ' The terms that are obtained through Fourier series',
-            c: ' The terms which consist of the Fourier series along with their sine or cosine values',
-            d: ' The terms which are of resemblance to Fourier transform in a Fourier series are called Fourier series coefficients'
+            a: ' <p styles=”color: red”>Paragraph</p>',
+            b: ' <p style=”color: red”>Paragraph</p>',
+            c: ' <p style=”color:red,font-size:15px”>Paragraph</p>',
+            d: ' <p styles=” color:red,font-size:15px”>Paragraph</p>'
 
         },
-        correctAnswer: 'c'
+        correctAnswer: 'b'
     },
     {
-        question: "2.	Which are the Fourier coefficients in the following?",
+        question: "2.	Which of the following is a correct syntax for internal styling?",
         answers: {
-            a: ' a<sub>0</sub>, a<sub>n</sub> and b<sub>n</sub>',
-            b: ' a<sub>n</sub>',
-            c: ' b<sub>n</sub>',
-            d: ' a<sub>n</sub> and b<sub>n</sub>'
-
-        },
-        correctAnswer: 'a'
-    },
-    {
-        question: "3.	 Do exponential Fourier series also have Fourier coefficients to be evaluated.",
-        answers: {
-            a: ' True',
-            b: ' False'
+            a: ' h1:{color:red;font-size:15px;}',
+            b: ' h1{color:red;font-size:15px;}',
+            c: ' h1: (color:red;font-size:15px;) ',
+            d: ' h1:<color:red;font-size:15px;>'
 
         },
         correctAnswer: 'a'
     },
     {
-        question: "4. The Fourier series coefficients of the signal are carried from -T/2 to T/2.",
+        question: "3.	Correct syntax to link external CSS is:",
         answers: {
-            a: ' True',
-            b: ' False'
-
-        },
-        correctAnswer: 'a'
-    },
-    {
-        question: "5.	What is the polar form of the Fourier series? Select most suitable answer",
-        answers: {
-            a: ' x(t) = c<sub>0</sub> + &Sigma;c<sub>n</sub> cos(nwt + &Phi;<sub>n</sub>)',
-            b: ' x(t) = c<sub>0</sub> + &Sigma;c<sub>n</sub> cos(&Phi;<sub>n</sub>)',
-            c: ' x(t) = &Sigma;c<sub>n</sub> cos(nwt + &Phi;<sub>n</sub>)',
-            d: ' x(t) = c<sub>0</sub>+ &Sigma;cos(nwt + &Phi;<sub>n</sub>)'
+            a: ' <link rel=”stylesheet” href=style.css>',
+            b: ' <link rel=”externalstyle” href=style.css>',
+            c: ' <link rel=(stylesheet) href=style.css>',
+            d: ' All of these'
 
         },
         correctAnswer: 'a'
