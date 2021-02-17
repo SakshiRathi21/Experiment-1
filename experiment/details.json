@@ -2,16 +2,16 @@
 
    "details": [
        {
-			"Experiment": "To construct a square wave with the help of fundamental frequency and its harmonic component",
-			"Lab": "Communication Engineering Lab",
-			"Discipline": "Electronics and Communication Engineering",
-			"Technology": "Communication Technology"
+			"Experiment": "To create an html file by applying the different styles using inline, external & internal style sheets",
+			"Lab": "Web Designing Lab",
+			"Discipline": "Information Technology",
+			"Technology": "Web Designing"
        }
    ],
 
    "developer": [
        {
-      "Developer": "Dr. Abhishek Sharma",
+      "Developer": "Dr. Sakshi Rathi",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
       "InstituteAcronym": "KIET"
        }
@@ -31,13 +31,13 @@
        },
 
        {
-			"Contributer": "Anubhav Kulshrestha",
+			"Contributer": "Shreya Asthana",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        },
 
        {
-			"Contributer": "Utkarsh Singh",
+			"Contributer": "Shuvam Gupta",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        }
