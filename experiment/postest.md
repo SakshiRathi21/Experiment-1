@@ -9,8 +9,8 @@ Q1) Which of the following HTML attributes is used to define inline styles?
 <br>
 Q2) The tag used in head tag in internal styling is?
 <br><b>'<style>'</b>
-<br>'<src>'
-<br>'<img>'
+<br>'\<src>'
+<br>'\<img>'
 <br>'<href>'
 <br>
 <br>
