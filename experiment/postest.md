@@ -1,6 +1,6 @@
 ## Post test
 <br>
-Q1) Which of the following HTML attributes is used to define inline styles?
+Q1) Which of the following HTML attributes is used to define inline styles? <br>
 a. Id <br>
 b. Class <br>
 c. <b>Style</b> <br>
