@@ -1,34 +1,24 @@
 ## Post test
 <br>
-Q1) What is a line spectrum?
-<br>a) Plot showing magnitudes of waveforms are called line spectrum
-<br><b>b) Plot showing each of harmonic amplitudes in the wave is called line spectrum</b>
-<br>c) Plot showing each of harmonic amplitudes in the wave is called line spectrum
-<br>d) Plot showing each of harmonic amplitudes called line spectrum
+Q1) Which of the following HTML attributes is used to define inline styles?
+<br>Id
+<br>Class
+<br><b>Style</b>
+<br>Styles
 <br>
 
-<br>Q2) Fourier series is not valid for Discrete time sequence/signals
-<br>a)	True
-<br><b>b)	False</b>
+Q2) The tag used in head tag in internal styling is?
+<br><b><style></b>
+<br><src>
+<br><img>
+<br><href>
 <br>
 
-<br>Q3) Fourier series uses which domain representation of signals?
-<br>a) Time domain representation
-<br><b>b) Frequency domain representation</b>
-<br>c) Both combined
-<br>d) Neither depends on the situation
+Q3) Where in an HTML document is the correct place to refer to an external style sheet?
+<br>In <body> section
+<br><b>In <head> section</b>
+<br>At the end of the document
+<br>None of the above
 <br>
 
-<br>Q4)	Continuous Time Fourier Series is valid for
-<br><b>a)	Periodic signals</b>
-<br>b)	Non periodic signals
-<br>c)	Even signals only
-<br>d)	None of the above False
-<br>
 
-<br>Q5) Select the correct relation between the amplitude of the nth harmonic element for Fourier series (An is representing amplitude of the nth harmonic)
-<br><b>a)	A7>A6> A5> A4</b>
-<br>b)	A7>A6< A5< A4
-<br>c)	A7<A6< A5< A4
-<br>d)	None of the above
-<br>
