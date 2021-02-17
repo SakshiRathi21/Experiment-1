@@ -4,7 +4,7 @@
 <br>Q1) Which of the following is a correct syntax for inline styling?
 <br>a. <p styles=”color: red”>Paragraph</p>
 <br>b. <b><p style=”color: red”>Paragraph</p></b>
-<br>c. <p style=”color:red,font-size:15px”>Paragraph</p>
+<br>c. "<p style=”color:red,font-size:15px”>Paragraph</p>"
 <br>d. <p styles=” color:red,font-size:15px”>Paragraph</p>
 <br>
 
