@@ -1,1 +1,1 @@
-## To construct a square wave with the help of fundamental frequency and its harmonic component
+## To create an HTML file by applying the different styles using inline, external and internal style sheets.
