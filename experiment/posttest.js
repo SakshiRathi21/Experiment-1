@@ -103,10 +103,10 @@
     {
         question: "2. The tag used in head tag in internal styling is? ",
         answers: {
-            a: ' <style>',
-            b: ' <src>',
-            c: ' <href>',
-            d: '<img>'
+            a: ' style tag',
+            b: ' body tag',
+            c: ' img tag',
+            d: ' a tag'
 
         },
         correctAnswer: 'a'
