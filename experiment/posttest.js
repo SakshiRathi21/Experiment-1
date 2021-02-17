@@ -90,58 +90,39 @@
 
   const myQuestions = [
     {
-        question: " 1.	What is a line spectrum?",
+        question: " 1. Which of the following HTML attributes is used to define inline styles?",
         answers: {
-            a: '  Plot showing magnitudes of waveforms are called line spectrum',
-            b: ' Plot showing each of harmonic amplitudes in the wave is called line spectrum',
-            c: ' Plot showing each of harmonic amplitudes in the wave is called line spectrum',
-            d: ' Plot showing each of harmonic amplitudes called line spectrum'
+            a: '  Id',
+            b: ' Class',
+            c: ' Style',
+            d: ' Styles'
 
         },
-        correctAnswer: 'b'
+        correctAnswer: 'c'
     },
     {
-        question: "2. Fourier series is not valid for Discrete time sequence/signals ",
+        question: "2. The tag used in head tag in internal styling is? ",
         answers: {
-            a: ' True',
-            b: ' False'
-
-        },
-        correctAnswer: 'b'
-    },
-    {
-        question: "3. Fourier series uses which domain representation of signals?",
-        answers: {
-            a: ' Time domain representation',
-            b: ' Frequency domain representation',
-            c: ' Both combined',
-            d: ' Neither depends on the situation'
-
-        },
-        correctAnswer: 'b'
-    },
-    {
-        question: "4.	Continuous Time Fourier Series is valid for  ",
-        answers: {
-            a: ' Periodic signals',
-            b: ' Non periodic signals',
-            c: ' Even signals only',
-            d: ' None of the above'
+            a: ' <style>',
+            b: ' <src>',
+            c: ' <href>',
+            d: '<img>'
 
         },
         correctAnswer: 'a'
     },
     {
-        question: "5. Select the correct relation between the amplitude of the nth harmonic element for Fourier series (An is representing amplitude of the nth harmonic)",
+        question: "3. Where in an HTML document is the correct place to refer to an external style sheet?",
         answers: {
-            a: ' A7 > A6 > A5 > A4',
-            b: ' A7 > A6 < A5 < A4',
-            c: ' A7 < A6 < A5 < A4',
+            a: ' In <body> section',
+            b: ' In <head> section',
+            c: ' At the end of the document',
             d: ' None of the above'
 
         },
-        correctAnswer: 'c'
+        correctAnswer: 'b'
     }
+   
 
   ];
 
