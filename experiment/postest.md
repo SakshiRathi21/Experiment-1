@@ -15,8 +15,8 @@ d. a tag <br>
 <br>
 <br>
 Q3) Where in an HTML document is the correct place to refer to an external style sheet? <br>
-a. In <body> section <br>
-b. <b>In <head> section</b> <br>
+a. In < body> section <br>
+b. <b>In < head> section</b> <br>
 c. At the end of the document <br>
 d. None of the above <br>
 <br>
