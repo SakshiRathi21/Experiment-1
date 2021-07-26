@@ -3,7 +3,7 @@
 
 <br>
 
-<b>Discipline | <b> Information and Technology
+<b>Discipline | <b> Information Technology
 :--|:--|
 <b> Lab | <b> Web Designing Lab
 <b> Experiment|     <b> 1. To create an html file by applying the different styles using inline, external & internal style sheets
@@ -18,7 +18,7 @@ Students will create an html file by applying the different styles using inline,
 
 <h5> Target Audience : </h5>
 
-Students of Information and Technology Dept. in Engineering
+Students of Information Technology Dept. in Engineering
 
 <h5> Course Alignment : </h5>
 
@@ -28,11 +28,11 @@ Web Designing Lab
 
 AKTU, Lucknow
 
-<b>Name of Developer | <b> Dr. Sakshi Rathi
+<b>Name of Developer | <b> Ms. Sakshi
 :--|:--|
 <b> Institute | <b> KIET Group of Institution, Delhi NCR, Ghaziabad
 <b> Email id|     <b> sakshi@kiet.edu
-<b> Department | Information and Technology
+<b> Department | Information Technology
 
 #### Mentor Details
 
